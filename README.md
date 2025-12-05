@@ -4,6 +4,8 @@ Code challange completed by **Oscar Nilsson**
 
 Next.js used as a base.
 
+Using `Node v24.11.0`
+
 ## Getting Started
 
 First, run the development server:
